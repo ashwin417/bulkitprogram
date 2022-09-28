@@ -7,4 +7,4 @@ A repo with numerous standard programs made for Hacktoberfest2022
 
 <br>
 
-<img src= "Assets/Hfest-Logo-2-Color-Manga.png" width= "400"/>
+<img src= "/images/Hfest-Logo-2-Color-Manga%402x.png" width= "400"/>
