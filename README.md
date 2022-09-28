@@ -3,7 +3,10 @@
 
 
 <div align="center">
+  
 A repo with numerous standard programs made for Hacktoberfest2022 
+  
+  
 
 <br>
 
