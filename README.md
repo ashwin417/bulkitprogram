@@ -4,7 +4,9 @@
 
 <div align="center">
   
-A repo with numerous standard programs made for Hacktoberfest2022 
+This is a repo created specially for Hacktoberfest 2022 Contribution.
+Looking out to getting contributed with some good quality codes.
+Hack it!!!
   
   
 
