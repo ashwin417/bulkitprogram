@@ -1,0 +1,40 @@
+#include <stdio.h>
+
+int
+main (void)
+{
+   char colour;
+   printf ("Enter the colour of the light (R,G,Y,A): ");
+   scanf ("%c", &colour);
+   switch (colour)
+   {
+       /* red light */
+       case 'R':
+       case 'r':
+                    printf("STOP!\n");
+                    printf("PEDESTRIANS CAN CROSS");
+                 break;
+ 
+       /* yellow light*/
+       case 'Y':
+       case 'y':
+       case 'A':
+       case 'a':
+                 printf ("CAUTION! \n");
+                 printf("PEDESTRIANS ARE MOVING:\n");
+                 break;
+        
+       /* green light */
+       case 'G':
+       case 'g': 
+                 printf("PEDESTRIANS STOP");
+                 printf ("GO! \n");
+                 break;
+ 
+       /* other colour */
+       default:
+                 printf ("The colour is not valid.\n");
+   }
+
+   return (0);
+}
